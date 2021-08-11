@@ -1,13 +1,23 @@
 # puzzle-3x3
+
+juego puzzle hecho en c++ con el algoritmo de búsqueda A*
+
+## Demo
+
+<img src="https://media.giphy.com/media/ogRwNxl5Fy4aQ8Rcg6/giphy.gif" width="500" >
+
+ * te permite jugar o rendirte
+ * si te rindes la maquina te muestra el resultado con el menor número de movimientos
+
 ## Instrucciones
-> abre la carpeta c++_alegro
 
-> ejecuta la aplicacion
+- abre la carpeta c++_alegro
 
-> abre el proyecto (main.cpp) desde el c ejecutable
+- ejecuta la aplicación
 
-> ejecutar (CTRl + F10)
+- abre el proyecto (main.cpp) desde el c ejecutable
 
-> A difrutar del juego
+- ejecutar (CTRl + F10)
 
-gracias por el apoyo
+- A disfrutar del juego
+
